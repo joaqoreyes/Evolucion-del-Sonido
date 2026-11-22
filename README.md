@@ -4,9 +4,10 @@ Dashboard interactivo construido con **Streamlit** y **Plotly Express** a partir
 
 **Pregunta que responde:** ¿cómo cambió el sonido de la música en Spotify entre 1921 y 2020 y qué perfiles de canciones se forman según sus características sonoras?
 
-**App en vivo:** _(pegar aquí el enlace .streamlit.app)_
+**App en vivo:** https://evolucion-del-sonido-dahya988nztcqvljpc8b7c.streamlit.app/
 
-![Captura de la app](captura.png)
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/34e10a73-879d-4580-b963-1a93c07e4233" />
+
 
 ## Integrantes
 
